@@ -1,10 +1,10 @@
-package service;
+package services;
 
 import interfaces.Mentor;
 
 public class FullTimeMentor implements Mentor {
     @Override
     public void createAccount(){
-        System.out.println("part time account is created");
+        System.out.println("full time account is created");
     }
 }

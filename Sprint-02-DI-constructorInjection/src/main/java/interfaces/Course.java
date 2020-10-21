@@ -1,4 +1,5 @@
-package com.interfaces.services;
+package interfaces;
 
 public interface Course {
+    void getTeachingHours();
 }

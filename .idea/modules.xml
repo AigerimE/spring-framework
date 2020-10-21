@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Spring-00-TightlyCoupled/Spring-00-TightlyCoupled.iml" filepath="$PROJECT_DIR$/Spring-00-TightlyCoupled/Spring-00-TightlyCoupled.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-01-SpringContainer/Spring-01-SpringContainer.iml" filepath="$PROJECT_DIR$/Spring-01-SpringContainer/Spring-01-SpringContainer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-02-DI-setter-injection/Spring-02-DI-setter-injection.iml" filepath="$PROJECT_DIR$/Spring-02-DI-setter-injection/Spring-02-DI-setter-injection.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sprint-00-LooselyCoupled/Sprint-00-LooselyCoupled.iml" filepath="$PROJECT_DIR$/Sprint-00-LooselyCoupled/Sprint-00-LooselyCoupled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sprint-02-DI-constructorInjection/Sprint-02-DI-constructorInjection.iml" filepath="$PROJECT_DIR$/Sprint-02-DI-constructorInjection/Sprint-02-DI-constructorInjection.iml" />
       <module fileurl="file://$PROJECT_DIR$/springBoot.iml" filepath="$PROJECT_DIR$/springBoot.iml" />
     </modules>
   </component>

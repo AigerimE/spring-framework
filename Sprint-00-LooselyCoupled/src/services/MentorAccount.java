@@ -1,7 +1,6 @@
-package service;
+package services;
 
 import implementation.Mentor;
-import javafx.scene.input.Mnemonic;
 
 public class MentorAccount {
     Mentor mentor;

@@ -1,5 +1,7 @@
+package interfaces;
+
 public interface Mentor {
 
-      public void create();
+       void createAccount();
 
 }
