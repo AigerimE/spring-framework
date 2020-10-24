@@ -1,5 +1,3 @@
-package com;
-
 import com.interfaces.Course;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
@@ -9,7 +7,7 @@ public class App {
 
         ApplicationContext context = new ClassPathXmlApplicationContext("config.xml");
 
-        Course course = context.getBean("API", Course.class);
+        Course course = context.getBean("java", Course.class);
 
         course.getTeachingHours();
 

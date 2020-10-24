@@ -9,9 +9,9 @@ public class App {
 
         ApplicationContext context = new ClassPathXmlApplicationContext("config.xml");
 
-        Course course = context.getBean("API", Course.class);
+        Course course = context.getBean("java", Course.class);
 
-        course.getTeachingHours();
+        System.out.println(course.toString());
 
 
     }

@@ -1,6 +1,6 @@
 package services;
 
-import interfaces.Mentor;
+import com.interfaces.Mentor;
 
 public class FullTimeMentor implements Mentor {
     @Override

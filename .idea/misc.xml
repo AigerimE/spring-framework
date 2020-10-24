@@ -6,6 +6,13 @@
         <option value="$PROJECT_DIR$/Spring-01-SpringContainer/pom.xml" />
         <option value="$PROJECT_DIR$/Sprint-02-DI-constructorInjection/pom.xml" />
         <option value="$PROJECT_DIR$/../Spring-02-DI-setter-injection/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-00-TightlyCoupled/Spring-03-BeanScopeSingleton-prototype/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-04-BeanLyfeCycle/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-02-DI-setter-injection/Spring-05-javaAnnotations-Component/pom.xml" />
+        <option value="$PROJECT_DIR$/Sprint-05-JavaAnnotations-Autowired/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-05-javaAnnotations-Component/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-05-JavaAnnotations-Qualifier/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-05-Value/pom.xml" />
       </list>
     </option>
   </component>

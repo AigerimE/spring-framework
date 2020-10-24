@@ -1,6 +1,6 @@
 package services;
 
-import interfaces.Course;
+import com.interfaces.Course;
 
 public class Selenium implements Course {
     @Override

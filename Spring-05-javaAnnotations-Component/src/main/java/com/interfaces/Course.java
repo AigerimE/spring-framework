@@ -1,4 +1,5 @@
 package com.interfaces;
 
-public interface Cource {
+public interface Course {
+    void getTeachingHours();
 }

@@ -1,15 +1,12 @@
 package services;
 
-import interfaces.Course;
-import interfaces.ExtraSessions;
+import com.interfaces.Course;
 import lombok.Data;
-import lombok.Getter;
-import lombok.Setter;
 
-public class Java implements Course {
 @Data
+public class Java implements Course {
 
-  private OfficeHours officeHours;
+  private OfficeHours extraSessions;
 
    /* public void setOfficeHours(OfficeHours officeHours) { //set + officeHours
         this.officeHours = officeHours;
@@ -23,6 +20,6 @@ public class Java implements Course {
 
     @Override
     public void getTeachingHours() {
-        System.out.println("Weekly Teaching Hours : " + (20 + officeHours.getHours()));
+        System.out.println("Weekly Teaching Hours : " + (20 + extraSessions.getHours()));
     }
 }

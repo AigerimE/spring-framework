@@ -5,8 +5,14 @@
       <module fileurl="file://$PROJECT_DIR$/Spring-00-TightlyCoupled/Spring-00-TightlyCoupled.iml" filepath="$PROJECT_DIR$/Spring-00-TightlyCoupled/Spring-00-TightlyCoupled.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-01-SpringContainer/Spring-01-SpringContainer.iml" filepath="$PROJECT_DIR$/Spring-01-SpringContainer/Spring-01-SpringContainer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-02-DI-setter-injection/Spring-02-DI-setter-injection.iml" filepath="$PROJECT_DIR$/Spring-02-DI-setter-injection/Spring-02-DI-setter-injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-03-BeanScopeSingleton-prototype/Spring-03-BeanScopeSingleton-prototype.iml" filepath="$PROJECT_DIR$/Spring-03-BeanScopeSingleton-prototype/Spring-03-BeanScopeSingleton-prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-04-BeanLyfeCycle/Spring-04-BeanLyfeCycle.iml" filepath="$PROJECT_DIR$/Spring-04-BeanLyfeCycle/Spring-04-BeanLyfeCycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-05-JavaAnnotations-Qualifier/Spring-05-JavaAnnotations-Qualifier.iml" filepath="$PROJECT_DIR$/Spring-05-JavaAnnotations-Qualifier/Spring-05-JavaAnnotations-Qualifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-05-Value/Spring-05-Value.iml" filepath="$PROJECT_DIR$/Spring-05-Value/Spring-05-Value.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-05-javaAnnotations-Component/Spring-05-javaAnnotations-Component.iml" filepath="$PROJECT_DIR$/Spring-05-javaAnnotations-Component/Spring-05-javaAnnotations-Component.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sprint-00-LooselyCoupled/Sprint-00-LooselyCoupled.iml" filepath="$PROJECT_DIR$/Sprint-00-LooselyCoupled/Sprint-00-LooselyCoupled.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sprint-02-DI-constructorInjection/Sprint-02-DI-constructorInjection.iml" filepath="$PROJECT_DIR$/Sprint-02-DI-constructorInjection/Sprint-02-DI-constructorInjection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sprint-05-JavaAnnotations-Autowired/Sprint-05-JavaAnnotations-Autowired.iml" filepath="$PROJECT_DIR$/Sprint-05-JavaAnnotations-Autowired/Sprint-05-JavaAnnotations-Autowired.iml" />
       <module fileurl="file://$PROJECT_DIR$/springBoot.iml" filepath="$PROJECT_DIR$/springBoot.iml" />
     </modules>
   </component>

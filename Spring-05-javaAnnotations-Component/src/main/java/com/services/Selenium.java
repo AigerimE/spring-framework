@@ -1,4 +1,13 @@
 package com.services;
 
-public class Selenium {
+import com.interfaces.Course;
+import org.springframework.stereotype.Component;
+
+@Component
+public class Selenium implements Course {
+    @Override
+    public void getTeachingHours(){
+        System.out.println("Weekly teaching : 25");
+
+    }
 }

@@ -6,15 +6,27 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Sprint-02-DI-constructorInjection" />
         <module name="Spring-02-DI-setter-injection" />
+        <module name="Spring-05-javaAnnotations-Component" />
+        <module name="Sprint-05-JavaAnnotations-Autowired" />
+        <module name="Spring-05-JavaAnnotations-Qualifier" />
+        <module name="Spring-03-BeanScopeSingleton-prototype" />
+        <module name="Sprint-02-DI-constructorInjection" />
+        <module name="Spring-04-BeanLyfeCycle" />
         <module name="Spring-01-SpringContainer" />
+        <module name="Spring-05-Value" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Spring-01-SpringContainer" target="1.8" />
       <module name="Spring-02-DI-setter-injection" target="1.8" />
+      <module name="Spring-03-BeanScopeSingleton-prototype" target="1.8" />
+      <module name="Spring-04-BeanLyfeCycle" target="1.8" />
+      <module name="Spring-05-javaAnnotations-Component" target="1.8" />
+      <module name="Spring-05-JavaAnnotations-Qualifier" target="1.8" />
+      <module name="Spring-05-Value" target="1.8" />
       <module name="Sprint-02-DI-constructorInjection" target="1.8" />
+      <module name="Sprint-05-JavaAnnotations-Autowired" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -1,4 +1,12 @@
 package services;
 
-public class OfficeHours {
+import com.interfaces.ExtraSessions;
+import org.springframework.stereotype.Component;
+
+@Component
+public class OfficeHours implements ExtraSessions {
+    @Override
+    public int getOfficeHours(){
+        return 4;
+    }
 }

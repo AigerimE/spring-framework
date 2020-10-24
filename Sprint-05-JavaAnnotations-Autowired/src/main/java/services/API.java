@@ -1,8 +1,7 @@
-package com.services;
+package services;
 
 import com.interfaces.Course;
 import org.springframework.stereotype.Component;
-
 @Component
 public class API implements Course {
     @Override

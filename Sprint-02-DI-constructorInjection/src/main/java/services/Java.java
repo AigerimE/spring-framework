@@ -1,7 +1,7 @@
 package services;
 
-import interfaces.Course;
-import interfaces.ExtraSessions;
+import com.interfaces.Course;
+import com.interfaces.ExtraSessions;
 
 public class Java implements Course {
 
